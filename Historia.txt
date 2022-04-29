@@ -1,0 +1,2 @@
+
+este es el primer archivo que creo para después modificarlo y hacer un commit con git
