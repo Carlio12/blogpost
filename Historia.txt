@@ -2,4 +2,3 @@
 este es el primer archivo que creo para después modificarlo y hacer un commit con git
  tengo 22 años y cumplo 23 en una 6 dias
  En camara parece alto, pero la verdad no es tan alto
- Aquí voy a calar lo del add y lo del commit
